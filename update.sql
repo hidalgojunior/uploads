@@ -1,0 +1,1 @@
+ALTER TABLE uploads ADD COLUMN visualizacao ENUM('card', 'lista') DEFAULT 'lista'; 
